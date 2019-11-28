@@ -1,0 +1,61 @@
+#grey {
+	margin: auto;
+	height: 100px;
+	width: 900px;
+	background-color: grey;
+	border-collapse: collapse;
+}
+
+#headerBackground {
+	height: 140px;
+	background-color: grey;
+}
+
+.menuButton {
+	border: none;
+	background-color: green;
+	height: 38px;
+	width: 100px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.menuButton:hover {
+	color: green;
+	background-color: white;
+}
+
+.thumbnail {
+	margin: 25px 0px 25px 25px;
+	float: right;
+	display: inline block;
+	background-color: black;
+	height: 150px;
+	width: 150px;
+}
+
+.thumbnail2 {
+	margin-right: 25px;
+	float: left;
+	display: inline block;
+	background-color: black;
+	height: 150px;
+	width: 150px;
+}
+
+#footerBackground {
+	height: 50px;
+	background-color: grey;
+}
+
+#footerText {
+	margin: auto;
+	height: 50px;
+	width: 900px;
+	background-color: grey;
+	border-collapse: collapse;
+}
+
+p {
+	text-align: justify;
+}
